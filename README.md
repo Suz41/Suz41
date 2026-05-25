@@ -1,3 +1,6 @@
+# Hey, I'm Suz 👋
+
+A film enthusiast and photographer who builds personal tools using AI. I create what I need when I can't find it — simple as that.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suzalpins) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/suzalpins) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Sujalacharii) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalacharii@gmail.com) 
