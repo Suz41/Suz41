@@ -1,6 +1,6 @@
 # Sujal Achari
 
-*Film enthusiast and developer building cinematic web tools and mobile applications.*
+*Making cool stuff for the web & mobile when I should be sleeping.*
 
 ---
 
