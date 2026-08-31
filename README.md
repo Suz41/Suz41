@@ -1,6 +1,6 @@
 # Sujal Achari
 
-*Making cool stuff for the web & mobile when I should be sleeping.*
+*Vibe coder crafting web experiments & mobile apps.*
 
 ---
 
