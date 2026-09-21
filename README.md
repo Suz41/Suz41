@@ -14,13 +14,11 @@
 
 ### 🎬 Selected Works
 
-| Feature | Logline | Reel / Stack |
+| Feature | Logline | Tags / Stack |
 | :--- | :--- | :--- |
-| **[Fishbowl](https://github.com/Suz41/Fishbowl)** | Standalone native server launcher for Jellyfin on Android ARM64 with Material 3 UI | `Kotlin` `Android` |
-| **[Logit](https://github.com/Suz41/logit)** | Search, rate, and track every movie you watch with TMDB integration | `JS` `Supabase` &bull; [Demo ↗](https://suz41.github.io/logit/) |
-| **[Banner](https://github.com/Suz41/Banner)** | Generate cinematic movie banners with custom star ratings & poster selection | `HTML` `CSS` `JS` &bull; [Demo ↗](https://suz41.github.io/Banner/) |
-| **[Sideload Tizen by Android](https://github.com/Suz41/Sideload-Tizen-by-Android)** | Sideload apps on Samsung Tizen TV directly via Android | `Shell` `ADB` |
-| **[Portfolio](https://github.com/Suz41/portfolio)** | Personal cinematic-themed portfolio website | `HTML` `CSS` `JS` &bull; [Demo ↗](https://suz41.github.io/portfolio/) |
+| **[Fishbowl](https://github.com/Suz41/Fishbowl)** | Standalone native server launcher for Jellyfin on Android ARM64 with Material 3 UI | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /> |
+| **[Logit](https://github.com/Suz41/logit)** | Search, rate, and track every movie you watch with TMDB integration | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /><br/>[Demo ↗](https://suz41.github.io/logit/) |
+| **[Sideload Tizen by Android](https://github.com/Suz41/Sideload-Tizen-by-Android)** | Sideload apps on Samsung Tizen TV directly via Android | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" /> |
 
 ---
 
