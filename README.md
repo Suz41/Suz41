@@ -2,7 +2,7 @@
 
 # S U J A L &nbsp; A C H A R I
 
-*Vibe coder crafting Android tools & cinematic web experiments.*
+*Vibe coder crafting quiet software, Android tools & web experiments.*
 
 <br/>
 
