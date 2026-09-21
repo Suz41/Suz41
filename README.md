@@ -2,7 +2,7 @@
 
 # Sujal Achari
 
-*Crafting Android tools & web experiments.*
+*Vibe coder crafting Android tools & web experiments.*
 
 <br/>
 
