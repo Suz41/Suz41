@@ -20,7 +20,6 @@
 
 - 📱 **Mobile & Systems**: Building native Android tools like **[Fishbowl](https://github.com/Suz41/Fishbowl)** (Jellyfin server on Android ARM64) and platform utilities.
 - 🌐 **Web Experiments**: Creating clean, aesthetic, and functional web applications like **[Logit](https://github.com/Suz41/logit)** and **[Banner](https://github.com/Suz41/Banner)**.
-- ⚙️ **Hardware Automation**: Generating precise G-code paths for CNC plotters and hotwire foam cutters using Python.
 - 🎬 **Cinema & Design**: Big film lover & passionate about minimalist, intuitive interfaces.
 
 ---
@@ -48,7 +47,6 @@
 | 🎬 **[Logit](https://github.com/Suz41/logit)** | Search, rate, and track every movie you watch with TMDB integration | `JS` `Supabase` &bull; [Demo](https://suz41.github.io/logit/) |
 | 📺 **[Sideload Tizen by Android](https://github.com/Suz41/Sideload-Tizen-by-Android)** | Sideload apps on Samsung Tizen TV directly via Android (No PC or pendrive needed) | `Shell` `ADB` `Tizen` |
 | 🎨 **[Banner](https://github.com/Suz41/Banner)** | Cinematic movie banner creator with TMDB poster picker and precision star ratings | `HTML/CSS` `JS` &bull; [Demo](https://suz41.github.io/Banner/) |
-| ⚡ **[Hotwire & CNC Automation](https://github.com/Suz41/ZP)** | Transforming images to precision G-code paths for hotwire foam cutters & CNC plotters | `Python` `G-code` `NumPy` |
 | 🌐 **[Portfolio](https://github.com/Suz41/portfolio)** | Personal cinematic-themed portfolio website showcasing projects and design | `HTML` `CSS` `JS` &bull; [Demo](https://suz41.github.io/portfolio/) |
 | 🖼️ **[Post Creator](https://github.com/Suz41/postcreator)** | Visual layout and social media post creator | `HTML` `CSS` &bull; [Demo](https://suz41.github.io/postcreator/) |
 
