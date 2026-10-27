@@ -1,7 +1,7 @@
 <h1 align="center">Sujal Achari</h1>
 
 <p align="center">
-  Vibe coder crafting quiet software, Android tools & web experiments.
+  Vibe coder crafting quiet software · Android tools · web experiments
 </p>
 
 <p align="center">
@@ -14,18 +14,52 @@
   <a href="https://boxd.it/8niV9"><img src="https://img.shields.io/badge/-Letterboxd-2B6039?logo=letterboxd&style=flat-square" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&style=flat-square" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&style=flat-square" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&style=flat-square" />
+  <img src="https://img.shields.io/badge/ADB-4285F4?logo=android&style=flat-square" />
+</p>
+
 ---
 
 ## About
 
-Building tools I wish existed. Android, web, open source.
+Building tools I wish existed.
 
 ---
 
 ## Works
 
-| Project | Description | Stack |
-|---|---|---|
-| [Fishbowl](https://github.com/Suz41/Fishbowl) | Native Jellyfin server launcher for Android ARM64 | Kotlin · Android |
-| [Logit](https://github.com/Suz41/logit) | Search, rate, track movies with TMDB integration | JS · Supabase |
-| [Sideload Tizen by Android](https://github.com/Suz41/Sideload-Tizen-by-Android) | Sideload apps on Samsung Tizen TV via Android | Shell · ADB |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Fishbowl</b><br/>
+      Native Jellyfin server launcher for Android ARM64<br/>
+      <i>Kotlin · Android</i>
+    </td>
+    <td align="center" width="33%">
+      <b>Logit</b><br/>
+      Search, rate, track movies with TMDB<br/>
+      <i>JS · Supabase</i>
+    </td>
+    <td align="center" width="33%">
+      <b>Sideload Tizen</b><br/>
+      Sideload apps on Samsung Tizen TV via Android<br/>
+      <i>Shell · ADB</i>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suz41&show_icons=true&theme=tokyonight&hide=issues,prs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suz41&theme=tokyonight&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  sujalacharii@gmail.com
+</p>
