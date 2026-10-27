@@ -1,5 +1,7 @@
+<h1 align="center">Sujal Achari</h1>
+
 <p align="center">
-  <img src="./assets/profile-card.svg" alt="Sujal Achari — profile" width="100%" />
+  Vibe coder crafting quiet software, Android tools & web experiments.
 </p>
 
 <p align="center">
@@ -11,3 +13,19 @@
   <a href="mailto:sujalacharii@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square" /></a>
   <a href="https://boxd.it/8niV9"><img src="https://img.shields.io/badge/-Letterboxd-2B6039?logo=letterboxd&style=flat-square" /></a>
 </p>
+
+---
+
+## About
+
+Building tools I wish existed. Android, web, open source.
+
+---
+
+## Works
+
+| Project | Description | Stack |
+|---|---|---|
+| [Fishbowl](https://github.com/Suz41/Fishbowl) | Native Jellyfin server launcher for Android ARM64 | Kotlin · Android |
+| [Logit](https://github.com/Suz41/logit) | Search, rate, track movies with TMDB integration | JS · Supabase |
+| [Sideload Tizen by Android](https://github.com/Suz41/Sideload-Tizen-by-Android) | Sideload apps on Samsung Tizen TV via Android | Shell · ADB |
