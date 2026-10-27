@@ -15,34 +15,9 @@
 
 ## Works
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Fishbowl-7F52FF?logo=kotlin&style=flat-square&labelColor=1a1a1a" />
-      <br/><br/>
-      Native Jellyfin server launcher for Android ARM64<br/>
-      <b>Kotlin · Android</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Logit-F7DF1E?logo=javascript&style=flat-square&labelColor=1a1a1a" />
-      <br/><br/>
-      Search, rate, track movies with TMDB<br/>
-      <b>JS · Supabase</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Tizen-3DDC84?logo=android&style=flat-square&labelColor=1a1a1a" />
-      <br/><br/>
-      Sideload apps on Samsung Tizen TV<br/>
-      <b>Shell · ADB</b>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suz41&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=7c3aed" />
-</p>
+- [Fishbowl](https://github.com/Suz41/Fishbowl) — Native Jellyfin server launcher for Android ARM64 · Kotlin · Android
+- [Logit](https://github.com/Suz41/logit) — Search, rate, track movies with TMDB · JS · Supabase
+- [Sideload Tizen](https://github.com/Suz41/Sideload-Tizen-by-Android) — Sideload apps on Samsung Tizen TV · Shell · ADB
 
 ---
 
